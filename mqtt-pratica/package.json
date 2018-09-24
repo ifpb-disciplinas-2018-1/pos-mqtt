@@ -1,0 +1,9 @@
+{
+    "name": "pos-mqtt",
+    "version": "1.0.0",
+    "description": "Node.js em Docker",
+    "main": "termometro.js",
+    "dependencies": {
+       "mqtt": "^1.6.3"
+    }
+  }
